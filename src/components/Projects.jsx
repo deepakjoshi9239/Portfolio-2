@@ -33,7 +33,7 @@ const ALL_PROJECTS = [
     about: 'Modern personal portfolio showcasing projects with custom animations, responsive layouts, and interactive elements.',
     tech: ['React', 'Framer Motion', 'Tailwind','EmailJS'],
     category: 'UI',
-    links: { github: '#', demo: '#' },
+    links: { github: 'https://github.com/deepakjoshi9239/Portfolio-2', demo: 'https://portfolio-mern.netlify.app/' },
     image: Portfolio1Img,
     status: 'Live',
     featured: true
@@ -43,9 +43,9 @@ const ALL_PROJECTS = [
     about: 'Personal blog platform with user authentication, post creation, and comments.',
     tech: ['React', 'Node.js', 'MongoDB','Tailwind',],
     category: 'Web App',
-    links: { github: '#', demo: '#' },
+    links: { github: 'https://github.com/deepakjoshi9239/Apna-blog'},
     image: BlogImg,
-    status: 'In Progress',
+    status: 'Completed',
     featured: false
   },
   {
